@@ -14,14 +14,20 @@
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Markup.Compiler.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="Microsoft.UI.Xaml.Controls.StackPanel">
-      <RootProperty Name="Orientation" />
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Controls.Button">
       <RootProperty Name="Content" />
+      <RootProperty Name="ClickMode" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Foreground" />
       <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Margin" />
     </RootType>
     <RootType FullName="firstWinUI.MainPage" />
   </Roots.RootTypes>

@@ -18,6 +18,8 @@ using Microsoft.UI.Xaml.Navigation;
 
 namespace firstWinUI
 {
+    ///DB PASS: R4Fv5zcHtHxKI5PM
+
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
@@ -28,9 +30,29 @@ namespace firstWinUI
             this.InitializeComponent();
         }
 
-        private void myButton_Click(object sender, RoutedEventArgs e)
+        void OnClick1(object sender, RoutedEventArgs e)
         {
-            myButton.Content = "Clicked";
+            btn1.Foreground = new SolidColorBrush(Windows.UI.Colors.Blue);
+            text1.Text = "Click event occurs on Hover.";
+            text2.Text = "";
+            text3.Text = "";
+        }
+
+        void OnClick2(object sender, RoutedEventArgs e)
+        {
+            btn2.Foreground = new SolidColorBrush(Windows.UI.Colors.Green);
+            text1.Text = "";
+            text2.Text = "Click event occurs on Press.";
+            text3.Text = "";
+        }
+
+        void OnClick3(object sender, RoutedEventArgs e)
+        {
+            btn1.Foreground = new SolidColorBrush(Windows.UI.Colors.Green);
+            btn2.Foreground = new SolidColorBrush(Windows.UI.Colors.Blue);
+            text1.Text = "";
+            text2.Text = "";
+            text3.Text = "Click event occurs on Release.";
         }
     }
 }

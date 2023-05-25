@@ -1,1 +1,1 @@
-C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\firstWinUI.csproj;x64
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\firstWinUI.csproj;x64

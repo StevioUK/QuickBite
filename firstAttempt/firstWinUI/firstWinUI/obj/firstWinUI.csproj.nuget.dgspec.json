@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj": {}
+    "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj": {
+    "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
+        "projectUniqueName": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
         "projectName": "firstWinUI",
-        "projectPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
+        "projectPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
         "packagesPath": "C:\\Users\\Lider\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\obj\\",
+        "outputPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

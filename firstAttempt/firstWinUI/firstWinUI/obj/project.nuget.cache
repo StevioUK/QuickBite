@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "audeaJup0FYrtubw1WsygzWpmhqT5abDpZ62V6S+X4uxjSDWyer9U91vK7NKyDgO4iLJF+Hx932x80hCCUU3SQ==",
+  "dgSpecHash": "+6vY+049f81lRQWAemCDDKUTWvpB9/aTvQpyQWgWId0jLI2YzxTANuG+wDaEDOQs5VQNb8ez5z58EZC9p6ycxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
+  "projectFilePath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\firstAttempt\\firstWinUI\\firstWinUI\\firstWinUI.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",

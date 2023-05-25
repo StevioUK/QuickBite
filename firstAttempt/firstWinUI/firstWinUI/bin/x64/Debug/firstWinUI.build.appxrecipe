@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>6617b195-3759-4c10-9585-2885bbf2c563</PackageIdentityName>
     <PackageIdentityPublisher>CN=Lider</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>D:\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\firstWinUI.exe">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\firstWinUI.exe">
       <PackagePath>entrypoint\firstWinUI.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lider\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\lib\uap10.0\Microsoft.ApplicationModel.Resources.winmd">
@@ -76,52 +76,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\firstWinUI.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\firstWinUI.xr.xml">
       <PackagePath>firstWinUI.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\Core\firstWinUI.exe">
+    <AppxPackagedFile Include="C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\firstAttempt\firstWinUI\firstWinUI\bin\x64\Debug\Core\firstWinUI.exe">
       <PackagePath>firstWinUI.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
