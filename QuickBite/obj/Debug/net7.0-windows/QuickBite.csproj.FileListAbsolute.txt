@@ -1,0 +1,17 @@
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.csproj.AssemblyReference.cache
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.csproj.GenerateResource.cache
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.AssemblyInfoInputs.cache
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.AssemblyInfo.cs
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.csproj.CoreCompileInputs.cache
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\QuickBite.exe
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\QuickBite.deps.json
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\QuickBite.runtimeconfig.json
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\QuickBite.dll
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\QuickBite.pdb
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.dll
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\refint\QuickBite.dll
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.pdb
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.genruntimeconfig.cache
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\ref\QuickBite.dll
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.orderTakingMenu.resources
