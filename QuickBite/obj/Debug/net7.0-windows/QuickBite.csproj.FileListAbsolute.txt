@@ -16,3 +16,5 @@ C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\Quick
 C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\ref\QuickBite.dll
 C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.orderTakingMenu.resources
 C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.Properties.Resources.resources
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\bin\Debug\net7.0-windows\Transitions.dll
+C:\Users\Lider\Desktop\Github\QuickBite\QuickBite\obj\Debug\net7.0-windows\QuickBite.csproj.CopyComplete

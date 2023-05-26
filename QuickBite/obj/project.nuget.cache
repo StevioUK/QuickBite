@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "YxRAswofvm0LRhkx2mZCTQ2Jrj6h/rsN0QEdz8GMcKKSalQYnDXhONnO/T0MZvKlwH8BQNqyYkwmTGS4CFjSGA==",
+  "dgSpecHash": "rxXQew2QPfakRaMs86yPzDhLzZ0cWQ14fG4QNU5g+orinLU6X7IW2wjPoCsHtlw1oxs9X61WDr0RRJwDFuZISw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\QuickBite.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Lider\\.nuget\\packages\\dot-net-transitions\\1.2.1\\dot-net-transitions.1.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'dot-net-transitions 1.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "dot-net-transitions",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
 }
