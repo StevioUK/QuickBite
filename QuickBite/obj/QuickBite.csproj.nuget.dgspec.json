@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Applications\\Visual Studio Shared Components\\NuGetPackages"
+          "D:\\Applications\\VS Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Lider\\AppData\\Roaming\\NuGet\\NuGet.Config",

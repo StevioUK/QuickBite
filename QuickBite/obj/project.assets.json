@@ -39,7 +39,7 @@
   },
   "packageFolders": {
     "C:\\Users\\Lider\\.nuget\\packages\\": {},
-    "D:\\Applications\\Visual Studio Shared Components\\NuGetPackages": {}
+    "D:\\Applications\\VS Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -51,7 +51,7 @@
       "outputPath": "C:\\Users\\Lider\\Desktop\\Github\\QuickBite\\QuickBite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Applications\\Visual Studio Shared Components\\NuGetPackages"
+        "D:\\Applications\\VS Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Lider\\AppData\\Roaming\\NuGet\\NuGet.Config",
